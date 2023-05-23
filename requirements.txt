@@ -6,3 +6,4 @@ sqlalchemy
 marshmallow
 python-dotenv
 passlib
+pymysql
